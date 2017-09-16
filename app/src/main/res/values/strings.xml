@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TinderPAK</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Matching</string>
+    <string name="title_notifications">Chat</string>
+    <string name="title_start">Create a profile</string>
+</resources>
